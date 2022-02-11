@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BarcodeTest/static/css/main.b117e751.css",
-    "main.js": "/BarcodeTest/static/js/main.edbebbfd.js",
+    "main.js": "/BarcodeTest/static/js/main.68fc987c.js",
     "static/js/787.444defb3.chunk.js": "/BarcodeTest/static/js/787.444defb3.chunk.js",
     "static/media/BarcodeIcon.svg": "/BarcodeTest/static/media/BarcodeIcon.06edd9c6e70dcb905ba69fd98761df91.svg",
     "index.html": "/BarcodeTest/index.html",
     "main.b117e751.css.map": "/BarcodeTest/static/css/main.b117e751.css.map",
-    "main.edbebbfd.js.map": "/BarcodeTest/static/js/main.edbebbfd.js.map",
+    "main.68fc987c.js.map": "/BarcodeTest/static/js/main.68fc987c.js.map",
     "787.444defb3.chunk.js.map": "/BarcodeTest/static/js/787.444defb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b117e751.css",
-    "static/js/main.edbebbfd.js"
+    "static/js/main.68fc987c.js"
   ]
 }
